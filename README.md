@@ -31,17 +31,16 @@ Develop an AI-powered platform for building and analyzing resumes, providing rea
 
 ## 👥 Team Members
 
-- <Tejas Apkaje, tejasapkaje>
-- <Shital Bhandarkar, Shital2728> 
-- <Tejas Doye, TEJAS8080>
-- <Sakshi Shinde, sakshishinde2025>
+- Tejas Apkaje, tejasapkaje
+- Shital Bhandarkar, Shital2728 
+- Tejas Doye, TEJAS8080
+- Sakshi Shinde, sakshishinde2025
 
 ## 🚀 Project Setup
 
 1. Clone this repository:
     ```
-    git clone https://github.com/<tejasapkaje>/ai-resume-analyzer.git
-    cd ai-resume-analyzer
+    git clone https://github.com/tejasapkaje/resume-analyzer
     ```
 
 2. Frontend and backend setup instructions to be added here as the project grows.
