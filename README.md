@@ -22,11 +22,12 @@ Develop an AI-powered platform for building and analyzing resumes, providing rea
 
 ## 💡 Tech Stack
 
-Area	          Preferred Tech    	        Why
-Frontend   	    React.js	                  Modern SPA, UI/UX, community
-Backend       	Node.js/Express	            Fast, async, JS throughout
-Database	      PostgreSQL	                ACID, robust, text search
-Hosting       	Render + Vercel	            Free/low-cost, easy deploy
+| Layer     | Technology                               |
+|-----------|------------------------------------------|
+| Frontend  | React.js, TailwindCSS                    |
+| Backend   | FastAPI (Python) / Node.js (JavaScript)  |
+| Database  | MongoDB (NoSQL) / PostgreSQL (SQL)       |
+| AI/ML     | GPT-4 API, SpaCy/NLTK, Scikit-learn, BERT embeddings |
 ## 👥 Team Members
 
 - Tejas Apkaje, tejasapkaje
