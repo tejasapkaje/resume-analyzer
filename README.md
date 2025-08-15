@@ -28,6 +28,19 @@ Develop an AI-powered platform for building and analyzing resumes, providing rea
 | Backend   | FastAPI (Python) / Node.js (JavaScript)  |
 | Database  | MongoDB (NoSQL) / PostgreSQL (SQL)       |
 | AI/ML     | GPT-4 API, SpaCy/NLTK, Scikit-learn, BERT embeddings |
+
+Module Connections:
+
+Frontend <-> Backend: Data exchange via REST API
+
+Backend <-> Database: Stores users, resumes, jobs
+
+Backend <-> OpenAI/Hugging Face: Sends/receives data for NLP tasks
+
+Backend <-> Job Board APIs: Fetch/job search on schedule or on demand
+
+Backend <-> Storage: Persist file uploads (resumes) to S3 or disk
+
 ## 👥 Team Members
 
 - Tejas Apkaje, tejasapkaje
