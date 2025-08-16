@@ -43,10 +43,10 @@ Backend <-> Storage: Persist file uploads (resumes) to S3 or disk
 
 ## 👥 Team Members
 
-- Tejas Apkaje, tejasapkaje
-- Shital Bhandarkar, Shital2728 
-- Tejas Doye, TEJAS8080
-- Sakshi Shinde, sakshishinde2025
+- Tejas Apkaje,
+- Shital Bhandarkar, 
+- Tejas Doye,
+- Sakshi Shinde
 
 ## 🚀 Project Setup
 
